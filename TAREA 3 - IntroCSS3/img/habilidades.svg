@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420">
+<rect width="700" height="420" rx="30" fill="#e0fffb"/>
+<path d="M120 300L230 190l80 70 150-150 100 80" fill="none" stroke="#0720ff" stroke-width="22"/>
+<circle cx="120" cy="300" r="22" fill="#2fd3a2"/><circle cx="230" cy="190" r="22" fill="#2fd3a2"/><circle cx="310" cy="260" r="22" fill="#2fd3a2"/><circle cx="460" cy="110" r="22" fill="#2fd3a2"/><circle cx="560" cy="190" r="22" fill="#2fd3a2"/>
+<text x="350" y="370" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#071a72">Desarrollo de habilidades</text>
+</svg>

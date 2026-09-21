@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420">
+<rect width="700" height="420" rx="30" fill="#FFF8E1"/>
+<path d="M350 90L585 160v150L350 380 115 310V160z" fill="#008ae6"/>
+<path d="M350 90l235 70-235 75-235-75z" fill="#0720ff"/>
+<path d="M350 235v105" stroke="#2fd3a2" stroke-width="24"/>
+<path d="M215 205v72c55 50 215 50 270 0v-72" fill="none" stroke="#ffffff" stroke-width="16"/>
+<text x="350" y="405" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#071a72">Aprendizaje continuo</text>
+</svg>
