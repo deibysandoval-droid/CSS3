@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420">
-<rect width="700" height="420" rx="30" fill="#FFF8E1"/>
-<circle cx="350" cy="205" r="130" fill="#e0fffb" stroke="#0720ff" stroke-width="12"/>
-<circle cx="350" cy="205" r="58" fill="#2fd3a2"/>
-<path d="M350 82v-35M350 363v-35M227 205h-35M508 205h-35M263 118l-25-25M437 292l25 25M437 118l25-25M263 292l-25 25" stroke="#008ae6" stroke-width="18" stroke-linecap="round"/>
-<text x="350" y="390" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#071a72">Ingeniería de Sistemas</text>
-</svg>

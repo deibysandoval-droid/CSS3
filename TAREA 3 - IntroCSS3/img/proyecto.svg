@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420">
-<rect width="700" height="420" rx="30" fill="#e0fffb"/>
-<rect x="95" y="95" width="510" height="245" rx="22" fill="#ffffff" stroke="#2fd3a2" stroke-width="10"/>
-<rect x="135" y="135" width="160" height="130" rx="12" fill="#0720ff"/>
-<path d="M170 205l35 35 65-80" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M340 150h190M340 195h160M340 240h120" stroke="#008ae6" stroke-width="18" stroke-linecap="round"/>
-<text x="350" y="390" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#071a72">Proyectos y experiencia</text>
-</svg>
